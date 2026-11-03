@@ -1,36 +1,31 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Originally from Bogota, Colombia currently studying Computer Programming in Toronto, Canada.</h3>
+<h1 align="center">Hi 👋, I'm David (Nexon Veloza)</h1>
+<h3 align="center">Software developer from Bogotá, Colombia · Computer Programming, Toronto, Canada</h3>
 
-- 👨‍💻 Some of my projects are available at [https://nedavefo.github.io/Portfolio/](https://nedavefo.github.io/Portfolio/)
-
-- 📫 How to reach me **nedavefo@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nexonveloza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nexon david veloza forero" height="30" width="40" /></a>
-<a href="https://instagram.com/nedavefo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nedavefo" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://nedavefo.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/nexonveloza"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nedavefo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    </a>
-</p>
+I build web applications and data tools end to end, from the database and backend logic to the UI. Lately I've been working on modernizing legacy business systems and on tooling for market-research field operations.
 
+## 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**GoNextMarket**](https://github.com/Nedavefo/GoNextMarket) | Corporate website for a market-research field operations company · [live](https://go-next-market.vercel.app) | React · Vite · Tailwind · Vercel |
+| [**Reporte Technical Superstore**](https://github.com/Nedavefo/Reporte-Technical-Superstore) | Turns KoboToolbox survey exports into a QA-ready Excel report with per-zone progress and data-quality alerts · [live](https://nedavefo.github.io/Reporte-Technical-Superstore/) | JavaScript · Excel |
+| [**Discord Bot**](https://github.com/Nedavefo/Discord_Bot) | Bot that logs member joins and leaves to CSV and posts farewell messages | Python · discord.py |
+| [**Sales Data Generator**](https://github.com/Nedavefo/CFP_Proyecto_Java_Poli) | Reproducible test-data generator for a sales-reporting system | Java |
+| [**Portfolio**](https://github.com/Nedavefo/Portfolio) | Personal site · [live](https://nedavefo.github.io/Portfolio/) | HTML · CSS · GitHub Actions |
+
+## 🛠️ Tech stack
+
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+**Frameworks & libraries:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+**Data & cloud:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
 
