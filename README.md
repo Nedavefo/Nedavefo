@@ -13,7 +13,7 @@ I build web applications and data tools end to end, from the database and backen
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**GoNextMarket**](https://github.com/Nedavefo/GoNextMarket) | Corporate website for a market-research field operations company · [live](https://go-next-market.vercel.app) | React · Vite · Tailwind · Vercel |
+| [**GoNextMarket**](https://github.com/Nedavefo/GoNextMarket) | Corporate website for a market-research field operations company · [live](https://nedavefo.github.io/GoNextMarket/) | React · Vite · Tailwind · GitHub Pages |
 | [**Sidic Web**](https://github.com/Nedavefo/erp-modernization-case-study) | ERP rebuild for a distribution company: legacy VB.NET + Access desktop system migrated to a Django web app on PostgreSQL (inventory, receivables, payables, reports). Built with Claude Code. [Case study](https://github.com/Nedavefo/erp-modernization-case-study) is public; code is private, walkthrough on request | Python · Django · PostgreSQL |
 | **Reporte Technical Superstore** | Turns KoboToolbox survey exports into a QA-ready Excel report with per-zone progress and data-quality alerts. Private repository, demo on request | JavaScript · Excel |
 | [**Discord Bot**](https://github.com/Nedavefo/Discord_Bot) | Bot that logs member joins and leaves to CSV and posts farewell messages | Python · discord.py |
@@ -26,7 +26,7 @@ I build web applications and data tools end to end, from the database and backen
 
 **Frameworks & libraries:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-**Data & cloud:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+**Data & cloud:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white)
 
