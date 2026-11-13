@@ -14,7 +14,7 @@ I build web applications and data tools end to end, from the database and backen
 | Project | What it is | Stack |
 |---|---|---|
 | [**GoNextMarket**](https://github.com/Nedavefo/GoNextMarket) | Corporate website for a market-research field operations company · [live](https://go-next-market.vercel.app) | React · Vite · Tailwind · Vercel |
-| **Sidic Web** | ERP rebuild for a distribution company: legacy VB.NET + Access desktop system migrated to a Django web app on PostgreSQL (inventory, receivables, payables, reports). Private repository, walkthrough on request | Python · Django · PostgreSQL |
+| [**Sidic Web**](https://github.com/Nedavefo/erp-modernization-case-study) | ERP rebuild for a distribution company: legacy VB.NET + Access desktop system migrated to a Django web app on PostgreSQL (inventory, receivables, payables, reports). Built with Claude Code. [Case study](https://github.com/Nedavefo/erp-modernization-case-study) is public; code is private, walkthrough on request | Python · Django · PostgreSQL |
 | **Reporte Technical Superstore** | Turns KoboToolbox survey exports into a QA-ready Excel report with per-zone progress and data-quality alerts. Private repository, demo on request | JavaScript · Excel |
 | [**Discord Bot**](https://github.com/Nedavefo/Discord_Bot) | Bot that logs member joins and leaves to CSV and posts farewell messages | Python · discord.py |
 | [**Sales Data Generator**](https://github.com/Nedavefo/CFP_Proyecto_Java_Poli) | Reproducible test-data generator for a sales-reporting system | Java |
