@@ -14,14 +14,15 @@ I build web applications and data tools end to end, from the database and backen
 | Project | What it is | Stack |
 |---|---|---|
 | [**GoNextMarket**](https://github.com/Nedavefo/GoNextMarket) | Corporate website for a market-research field operations company · [live](https://go-next-market.vercel.app) | React · Vite · Tailwind · Vercel |
-| [**Reporte Technical Superstore**](https://github.com/Nedavefo/Reporte-Technical-Superstore) | Turns KoboToolbox survey exports into a QA-ready Excel report with per-zone progress and data-quality alerts · [live](https://nedavefo.github.io/Reporte-Technical-Superstore/) | JavaScript · Excel |
+| **Sidic Web** | ERP rebuild for a distribution company: legacy VB.NET + Access desktop system migrated to a Django web app on PostgreSQL (inventory, receivables, payables, reports). Private repository, walkthrough on request | Python · Django · PostgreSQL |
+| **Reporte Technical Superstore** | Turns KoboToolbox survey exports into a QA-ready Excel report with per-zone progress and data-quality alerts. Private repository, demo on request | JavaScript · Excel |
 | [**Discord Bot**](https://github.com/Nedavefo/Discord_Bot) | Bot that logs member joins and leaves to CSV and posts farewell messages | Python · discord.py |
 | [**Sales Data Generator**](https://github.com/Nedavefo/CFP_Proyecto_Java_Poli) | Reproducible test-data generator for a sales-reporting system | Java |
 | [**Portfolio**](https://github.com/Nedavefo/Portfolio) | Personal site · [live](https://nedavefo.github.io/Portfolio/) | HTML · CSS · GitHub Actions |
 
 ## 🛠️ Tech stack
 
-**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+**Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 **Frameworks & libraries:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
