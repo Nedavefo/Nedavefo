@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David (Nexon Veloza)</h1>
+<h1 align="center">Hi 👋, I'm Nexon David Veloza Forero</h1>
 <h3 align="center">Software developer from Bogotá, Colombia · Computer Programming, Toronto, Canada</h3>
 
 <p align="center">
